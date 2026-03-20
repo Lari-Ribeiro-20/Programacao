@@ -108,16 +108,24 @@ Foi feita melhoria na organização dos componentes na tela.
 Criar um aplicativo com múltiplas telas para navegação.
 
 **Funcionamento:**  
-A partir da tela inicial (Screen1), o usuário pode clicar em botões para navegar entre diferentes telas do aplicativo.
+A partir da tela inicial (Screen1), o usuário pode clicar em botões para navegar entre diferentes telas do aplicativo e também retornar à tela inicial.
 
 **Modificações:**  
-Foram adicionados textos explicativos e melhorias na navegação entre telas.
+Foram adicionadas diferentes telas com navegação entre elas, além de melhorias visuais para facilitar o uso do aplicativo.
 
 ### Print do Design  
-![Design Projeto 5](imagens/design5.png)
+![Tela inicial](imagens/design5(screen).png)
+
+### Prints adicionais do Design  
+![Tela 2](imagens/design5(tela2).png)  
+![Voltar início](imagens/design5(voltainicio).png)
 
 ### Print dos Blocos  
-![Blocos Projeto 5](imagens/blocos5.png)
+![Blocos principais](imagens/blocos5(screen).png)
+
+### Prints adicionais dos Blocos  
+![Blocos tela 2](imagens/blocos5(tela2).png)  
+![Blocos voltar início](imagens/blocos5(voltainicio).png)
 
 
 
